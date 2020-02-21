@@ -1,0 +1,16 @@
+{
+  "name": "testcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compile-run": "^2.3.2",
+    "pdf-parse": "^1.1.1",
+    "pdfreader": "^1.0.6"
+  }
+}
